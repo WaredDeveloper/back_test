@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  add_index: 
+  [: 
+  : 
+  unique: MyString
+  'true': MyString
+
+two:
+  add_index: 
+  [: 
+  : 
+  unique: MyString
+  'true': MyString
